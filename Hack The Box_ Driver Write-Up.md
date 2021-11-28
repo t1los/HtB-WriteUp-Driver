@@ -29,7 +29,7 @@ I saved this file as @exploit.scf and uploaded it after starting a responder
 ![](https://i.imgur.com/aUji3dz.png)
 ![](https://i.imgur.com/CIMngb5.png)
 
-We crack this NTML hash using hashcat and gain access using evil winrm.
+We crack this NTLM hash using hashcat and gain access using evil winrm.
 
 
 
